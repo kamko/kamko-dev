@@ -1,2 +1,2 @@
-# kamkopw
-personal website @ kamko.pw
+# kamko-dev
+personal website @ kamko.dev
